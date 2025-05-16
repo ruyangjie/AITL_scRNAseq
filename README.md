@@ -25,7 +25,7 @@
 |reshape2               | 1.4.4      |ggthemes               | 4.2.0      |
 |ggpubr                 | 0.3.0      |igraph                 | 1.2.5      |
 |car                    | 3.0-7      |cytofkit               | 1.10.0     |
-|carData                | 13.0-3     |plyr                   | 1.8.6      |
+|carData                | 3.0-3     |plyr                   | 1.8.6      |
 |RColorBrewer           | 1.1-2      |ggplot2                | 3.3.0      |
 |colorRamps             | 2.3        |Rcpp                   | 1.0.4.6    |
 |Rmisc                  | 1.5        |flowCore               | 1.52.1     |

@@ -1,1 +1,1 @@
-# AITL_scRNAseq
+# Analysis code for CYTOF and scRNA-seq
